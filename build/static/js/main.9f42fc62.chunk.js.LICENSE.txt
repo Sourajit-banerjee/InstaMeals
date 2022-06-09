@@ -1,0 +1,1 @@
+//!We will manage the state for closing the modal over here
