@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/InstaMeals/static/css/main.70e1d182.chunk.css",
+    "main.js": "/InstaMeals/static/js/main.9f42fc62.chunk.js",
+    "main.js.map": "/InstaMeals/static/js/main.9f42fc62.chunk.js.map",
+    "runtime-main.js": "/InstaMeals/static/js/runtime-main.82225c6c.js",
+    "runtime-main.js.map": "/InstaMeals/static/js/runtime-main.82225c6c.js.map",
+    "static/js/2.a66204cc.chunk.js": "/InstaMeals/static/js/2.a66204cc.chunk.js",
+    "static/js/2.a66204cc.chunk.js.map": "/InstaMeals/static/js/2.a66204cc.chunk.js.map",
+    "index.html": "/InstaMeals/index.html",
+    "static/css/main.70e1d182.chunk.css.map": "/InstaMeals/static/css/main.70e1d182.chunk.css.map",
+    "static/js/2.a66204cc.chunk.js.LICENSE.txt": "/InstaMeals/static/js/2.a66204cc.chunk.js.LICENSE.txt",
+    "static/js/main.9f42fc62.chunk.js.LICENSE.txt": "/InstaMeals/static/js/main.9f42fc62.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/InstaMeals/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82225c6c.js",
+    "static/js/2.a66204cc.chunk.js",
+    "static/css/main.70e1d182.chunk.css",
+    "static/js/main.9f42fc62.chunk.js"
+  ]
+}
